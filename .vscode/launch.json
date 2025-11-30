@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "calculator_static_physics",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calculator_static_physics (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calculator_static_physics (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "bug",
+            "cwd": "bug",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bug (profile mode)",
+            "cwd": "bug",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bug (release mode)",
+            "cwd": "bug",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
